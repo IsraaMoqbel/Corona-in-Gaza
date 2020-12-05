@@ -1,9 +1,9 @@
 body {
-    font-family: 'JetBrains Mono', monospace;
-    width: 80%;
-    margin: auto;
+  font-family: "JetBrains Mono", monospace;
+  width: 80%;
+  margin: auto;
 }
 h1 {
-    color: 'rgb(179,95,82)';
-    text-align: center
+  color: "rgb(179,95,82)";
+  text-align: center;
 }
